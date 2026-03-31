@@ -1,4 +1,3 @@
-
 /*
 Rule #1 this is wrong because every component must return or it should be wrapped 
 in a single or parent container so you have to create a div as parent container
